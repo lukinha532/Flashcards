@@ -1,4 +1,4 @@
-
+js
 Aviso: "// Seleciona todos os cartões const…"
 JOCEMARA DE FATIMA MARIANO
 Criado em: 5 de ago.5 de ago.
